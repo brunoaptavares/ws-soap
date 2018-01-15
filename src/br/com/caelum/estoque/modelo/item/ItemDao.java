@@ -75,7 +75,4 @@ public class ItemDao {
 		ITENS.put("MOG", new Item.Builder().comCodigo("MOG").comNome("Moto G").comTipo("Celular").comQuantidade(8).build());
 		ITENS.put("MXX", new Item.Builder().comCodigo("MXX").comNome("Moto MAXX").comTipo("Celular").comQuantidade(2).build());
 	}
-
-
-
 }
